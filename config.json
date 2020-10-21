@@ -1,0 +1,15 @@
+{
+    "logPath": "authenticator.log",
+    "datastore": {
+        "user": "",
+        "password": "",
+        "name": "quizzbox",
+        "hosts": [
+            "localhost"
+        ]
+    },
+    "authenticator": {
+        "serverPort": "8090",
+        "accessDuration": 30
+    }
+}

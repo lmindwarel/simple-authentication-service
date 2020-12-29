@@ -5,9 +5,9 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	utils "github.com/lmindwarel/quizzbox-utils"
+	"github.com/lmindwarel/authentificator/models"
+	"github.com/lmindwarel/authentificator/utils"
 	"github.com/pkg/errors"
-	"quizzbox.fr/authentificator/models"
 )
 
 // Login is used to log account in

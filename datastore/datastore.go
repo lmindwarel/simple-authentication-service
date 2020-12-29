@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strings"
 
+	"github.com/lmindwarel/authentificator/models"
 	"github.com/pkg/errors"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
-	"quizzbox.fr/authentificator/models"
 )
 
 type Datastore struct {

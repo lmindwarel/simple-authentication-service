@@ -3,7 +3,7 @@
     "datastore": {
         "user": "",
         "password": "",
-        "name": "quizzbox",
+        "name": "authenticator",
         "hosts": [
             "localhost"
         ]

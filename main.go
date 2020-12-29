@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"os"
 
-	utils "github.com/lmindwarel/quizzbox-utils"
-	"quizzbox.fr/authentificator/authenticator"
-	"quizzbox.fr/authentificator/datastore"
+	"github.com/lmindwarel/authentificator/authenticator"
+	"github.com/lmindwarel/authentificator/datastore"
+	"github.com/lmindwarel/authentificator/utils"
 )
 
 // Config is the core configuration

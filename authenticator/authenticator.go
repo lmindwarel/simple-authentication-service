@@ -4,8 +4,8 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	utils "github.com/lmindwarel/quizzbox-utils"
-	"quizzbox.fr/authentificator/datastore"
+	"github.com/lmindwarel/authentificator/datastore"
+	"github.com/lmindwarel/authentificator/utils"
 )
 
 type Config struct {
